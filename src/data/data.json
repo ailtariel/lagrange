@@ -1,0 +1,1329 @@
+[
+  {
+    "id": 0,
+    "class": "航母",
+    "prototype_name": "南十字星元帅级",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 1,
+    "class": "航母",
+    "prototype_name": "CV3000级",
+    "subtype": null,
+    "company": "未央标准",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 2,
+    "class": "航母",
+    "prototype_name": "太阳鲸",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 3,
+    "class": "战巡",
+    "prototype_name": "乌拉诺斯之矛",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 4,
+    "class": "战巡",
+    "prototype_name": "新君士坦丁大帝级",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 5,
+    "class": "战巡",
+    "prototype_name": "ST59级",
+    "subtype": null,
+    "company": "未央标准",
+    "strategy": [
+      "持续作战",
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 6,
+    "class": "战巡",
+    "prototype_name": "永恒风暴级",
+    "subtype": null,
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 7,
+    "class": "巡洋",
+    "prototype_name": "康纳马拉混沌级",
+    "subtype": "轨道炮型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 8,
+    "class": "巡洋",
+    "prototype_name": "康纳马拉混沌级",
+    "subtype": "等离子体型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 9,
+    "class": "巡洋",
+    "prototype_name": "猎兵级",
+    "subtype": "支援型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 10,
+    "class": "巡洋",
+    "prototype_name": "猎兵级",
+    "subtype": "对舰(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 11,
+    "class": "巡洋",
+    "prototype_name": "狩猎者级",
+    "subtype": "通用型(A)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 12,
+    "class": "巡洋",
+    "prototype_name": "狩猎者级",
+    "subtype": "战术型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 13,
+    "class": "巡洋",
+    "prototype_name": "狩猎者级",
+    "subtype": "防空型(C)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 14,
+    "class": "巡洋",
+    "prototype_name": "奇美拉级",
+    "subtype": "弹炮型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 15,
+    "class": "巡洋",
+    "prototype_name": "奇美拉级",
+    "subtype": "重炮型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 16,
+    "class": "巡洋",
+    "prototype_name": "奇美拉级",
+    "subtype": "防护型(C)",
+    "company": "诺玛运输",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 17,
+    "class": "巡洋",
+    "prototype_name": "光锥级",
+    "subtype": "通用型(A)",
+    "company": "诺玛运输",
+    "strategy": [],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 18,
+    "class": "巡洋",
+    "prototype_name": "光锥级",
+    "subtype": "防空型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 19,
+    "class": "巡洋",
+    "prototype_name": "光锥级",
+    "subtype": "突击型(C)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 20,
+    "class": "巡洋",
+    "prototype_name": "卡利斯托",
+    "subtype": "鱼雷型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 21,
+    "class": "巡洋",
+    "prototype_name": "卡利斯托",
+    "subtype": "对舰型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 22,
+    "class": "巡洋",
+    "prototype_name": "卡利斯托",
+    "subtype": "支援型(C)",
+    "company": "木星工业",
+    "strategy": [],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 23,
+    "class": "巡洋",
+    "prototype_name": "艾奥级",
+    "subtype": "离子炮型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 24,
+    "class": "巡洋",
+    "prototype_name": "艾奥级",
+    "subtype": "对舰型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 25,
+    "class": "巡洋",
+    "prototype_name": "艾奥级",
+    "subtype": "攻城型(C)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 26,
+    "class": "巡洋",
+    "prototype_name": "CAS066级",
+    "subtype": "综合型(A)",
+    "company": "未央标准",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 27,
+    "class": "巡洋",
+    "prototype_name": "CAS066级",
+    "subtype": "炮击型(B)",
+    "company": "未央标准",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 28,
+    "class": "巡洋",
+    "prototype_name": "CAS066级",
+    "subtype": "载机型(C)",
+    "company": "未央标准",
+    "strategy": [],
+    "tactic": []
+  },
+  {
+    "id": 29,
+    "class": "巡洋",
+    "prototype_name": "KCCPV2.0",
+    "subtype": "综合型(A)",
+    "company": "未央标准",
+    "strategy": [
+      "火力出众",
+      "战略支援"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 30,
+    "class": "巡洋",
+    "prototype_name": "KCCPV2.0",
+    "subtype": "脉冲型(B)",
+    "company": "未央标准",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 31,
+    "class": "巡洋",
+    "prototype_name": "KCCPV2.0",
+    "subtype": "轨道炮型(C)",
+    "company": "未央标准",
+    "strategy": [],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 32,
+    "class": "巡洋",
+    "prototype_name": "KCCPV2.0",
+    "subtype": "载机型(D)",
+    "company": "未央标准",
+    "strategy": [],
+    "tactic": []
+  },
+  {
+    "id": 33,
+    "class": "驱逐",
+    "prototype_name": "亚达伯拉级",
+    "subtype": "通用型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 34,
+    "class": "驱逐",
+    "prototype_name": "亚达伯拉级",
+    "subtype": "装甲型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 35,
+    "class": "驱逐",
+    "prototype_name": "创神星级",
+    "subtype": "轨道炮型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 36,
+    "class": "驱逐",
+    "prototype_name": "创神星级",
+    "subtype": "鱼雷型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 37,
+    "class": "驱逐",
+    "prototype_name": "卫士",
+    "subtype": "支援型(A)",
+    "company": "安东尼奥",
+    "strategy": [],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 38,
+    "class": "驱逐",
+    "prototype_name": "卫士",
+    "subtype": "两栖型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 39,
+    "class": "驱逐",
+    "prototype_name": "卫士",
+    "subtype": "脉冲型(C)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 40,
+    "class": "驱逐",
+    "prototype_name": "枪骑兵级",
+    "subtype": "对舰型(A)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 41,
+    "class": "驱逐",
+    "prototype_name": "枪骑兵级",
+    "subtype": "综合型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 42,
+    "class": "驱逐",
+    "prototype_name": "枪骑兵级",
+    "subtype": "防空型(C)",
+    "company": "安东尼奥",
+    "strategy": [
+      "持续作战",
+      "战略支援"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 43,
+    "class": "驱逐",
+    "prototype_name": "苔原级",
+    "subtype": "支援型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 44,
+    "class": "驱逐",
+    "prototype_name": "苔原级",
+    "subtype": "载机型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 45,
+    "class": "驱逐",
+    "prototype_name": "斗牛级",
+    "subtype": "攻击型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 46,
+    "class": "驱逐",
+    "prototype_name": "斗牛级",
+    "subtype": "突击型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 47,
+    "class": "驱逐",
+    "prototype_name": "斗牛级",
+    "subtype": "防护型(C)",
+    "company": "诺玛运输",
+    "strategy": [
+      "持续作战",
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 48,
+    "class": "驱逐",
+    "prototype_name": "谷神星级",
+    "subtype": "载机型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 49,
+    "class": "驱逐",
+    "prototype_name": "谷神星级",
+    "subtype": "支援型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 50,
+    "class": "驱逐",
+    "prototype_name": "谷神星级",
+    "subtype": "战术型(C)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 51,
+    "class": "驱逐",
+    "prototype_name": "阋神星级",
+    "subtype": "火炮型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 52,
+    "class": "驱逐",
+    "prototype_name": "阋神星级",
+    "subtype": "重炮型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 53,
+    "class": "驱逐",
+    "prototype_name": "阋神星级",
+    "subtype": "装甲型(C)",
+    "company": "木星工业",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 54,
+    "class": "驱逐",
+    "prototype_name": "AC721",
+    "subtype": "通用型(A)",
+    "company": "未央标准",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 55,
+    "class": "驱逐",
+    "prototype_name": "AC721",
+    "subtype": "导弹型(B)",
+    "company": "未央标准",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 56,
+    "class": "驱逐",
+    "prototype_name": "AC721",
+    "subtype": "载机型(D)",
+    "company": "未央标准",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 57,
+    "class": "护卫",
+    "prototype_name": "雷里亚特级",
+    "subtype": "对舰型(A)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 58,
+    "class": "护卫",
+    "prototype_name": "雷里亚特级",
+    "subtype": "鱼雷型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 59,
+    "class": "护卫",
+    "prototype_name": "雷里亚特级",
+    "subtype": "隐身型(C)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 60,
+    "class": "护卫",
+    "prototype_name": "澄海级",
+    "subtype": "对舰型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 61,
+    "class": "护卫",
+    "prototype_name": "澄海级",
+    "subtype": "导弹型(B)",
+    "company": "木星工业",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 62,
+    "class": "护卫",
+    "prototype_name": "澄海级",
+    "subtype": "防空型(C)",
+    "company": "木星工业",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 63,
+    "class": "护卫",
+    "prototype_name": "卡利莱恩级",
+    "subtype": "侦察型(A)",
+    "company": "安东尼奥",
+    "strategy": [
+      "持续作战",
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 64,
+    "class": "护卫",
+    "prototype_name": "卡利莱恩级",
+    "subtype": "重炮型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 65,
+    "class": "护卫",
+    "prototype_name": "卡利莱恩级",
+    "subtype": "特种型(C)",
+    "company": "安东尼奥",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 66,
+    "class": "护卫",
+    "prototype_name": "诺玛M470级",
+    "subtype": "攻城型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 67,
+    "class": "护卫",
+    "prototype_name": "诺玛M470级",
+    "subtype": "支援型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 68,
+    "class": "护卫",
+    "prototype_name": "诺玛M470级",
+    "subtype": "防空型(C)",
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 69,
+    "class": "护卫",
+    "prototype_name": "红宝石级",
+    "subtype": "轨道炮型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 70,
+    "class": "护卫",
+    "prototype_name": "红宝石级",
+    "subtype": "离子炮型(B)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 71,
+    "class": "护卫",
+    "prototype_name": "红宝石级",
+    "subtype": "防护型(C)",
+    "company": "诺玛运输",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 72,
+    "class": "护卫",
+    "prototype_name": "刺水母级",
+    "subtype": "特种型(A)",
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 73,
+    "class": "护卫",
+    "prototype_name": "刺水母级",
+    "subtype": "防空型(B)",
+    "company": "诺玛运输",
+    "strategy": [],
+    "tactic": []
+  },
+  {
+    "id": 74,
+    "class": "护卫",
+    "prototype_name": "云海级",
+    "subtype": "突击型(A)",
+    "company": "木星工业",
+    "strategy": [
+      "火力出众"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 75,
+    "class": "护卫",
+    "prototype_name": "云海级",
+    "subtype": "防空型(B)",
+    "company": "木星工业",
+    "strategy": [],
+    "tactic": []
+  },
+  {
+    "id": 76,
+    "class": "护卫",
+    "prototype_name": "静海级",
+    "subtype": "综合型(A)",
+    "company": "木星工业",
+    "strategy": [],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 77,
+    "class": "护卫",
+    "prototype_name": "静海级",
+    "subtype": "脉冲型(B)",
+    "company": "木星工业",
+    "strategy": [],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 78,
+    "class": "护卫",
+    "prototype_name": "静海级",
+    "subtype": "防空型(C)",
+    "company": "木星工业",
+    "strategy": [],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 79,
+    "class": "护卫",
+    "prototype_name": "FG300",
+    "subtype": "多功能型(A)",
+    "company": "未央标准",
+    "strategy": [],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 80,
+    "class": "护卫",
+    "prototype_name": "FG300",
+    "subtype": "装甲型(B)",
+    "company": "未央标准",
+    "strategy": [
+      "持续作战"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 81,
+    "class": "护卫",
+    "prototype_name": "FG300",
+    "subtype": "侦察型(C)",
+    "company": "未央标准",
+    "strategy": [],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 82,
+    "class": "护航艇",
+    "prototype_name": "CV-T800",
+    "subtype": null,
+    "company": "未央标准",
+    "strategy": [
+      "火力出众",
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 83,
+    "class": "护航艇",
+    "prototype_name": "CV-M011",
+    "subtype": "导弹型(A)",
+    "company": "未央标准",
+    "strategy": [
+      "火力出众",
+      "持续作战",
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 84,
+    "class": "护航艇",
+    "prototype_name": "CV-M011",
+    "subtype": "火炮型(B)",
+    "company": "未央标准",
+    "strategy": [
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 85,
+    "class": "护航艇",
+    "prototype_name": "虚灵",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "持续作战",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 86,
+    "class": "护航艇",
+    "prototype_name": "星云追逐者",
+    "subtype": "弹炮型(A)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 87,
+    "class": "护航艇",
+    "prototype_name": "星云追逐者",
+    "subtype": "脉冲型(B)",
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 88,
+    "class": "护航艇",
+    "prototype_name": "蜂巢守卫者",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "舰载机"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 89,
+    "class": "护航艇",
+    "prototype_name": "RB7-13",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "持续作战",
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": []
+  },
+  {
+    "id": 90,
+    "class": "护航艇",
+    "prototype_name": "CV-II003",
+    "subtype": null,
+    "company": "未央标准",
+    "strategy": [
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 91,
+    "class": "护航艇",
+    "prototype_name": "鳐",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 92,
+    "class": "战机",
+    "prototype_name": "米斯特拉",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 93,
+    "class": "战机",
+    "prototype_name": "佩刀Aer410",
+    "subtype": null,
+    "company": "木星工业",
+    "strategy": [
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 94,
+    "class": "战机",
+    "prototype_name": "刺鳐",
+    "subtype": null,
+    "company": "木星工业",
+    "strategy": [
+      "火力出众",
+      "持续作战",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 95,
+    "class": "战机",
+    "prototype_name": "孢子A404",
+    "subtype": null,
+    "company": "木星工业",
+    "strategy": [
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 96,
+    "class": "战机",
+    "prototype_name": "B192新大地",
+    "subtype": null,
+    "company": "木星工业",
+    "strategy": [
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 97,
+    "class": "战机",
+    "prototype_name": "维塔斯-B010",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "持续作战",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 98,
+    "class": "战机",
+    "prototype_name": "维塔斯A021",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "火力出众",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 99,
+    "class": "战机",
+    "prototype_name": "平衡安德森SC020",
+    "subtype": null,
+    "company": "安东尼奥",
+    "strategy": [
+      "持续作战",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 100,
+    "class": "战机",
+    "prototype_name": "林鸮A100",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 101,
+    "class": "战机",
+    "prototype_name": "牛蛙",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "火力出众",
+      "舰载机"
+    ],
+    "tactic": [
+      "投射武器"
+    ]
+  },
+  {
+    "id": 102,
+    "class": "战机",
+    "prototype_name": "砂龙",
+    "subtype": null,
+    "company": "诺玛运输",
+    "strategy": [
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  },
+  {
+    "id": 103,
+    "class": "战机",
+    "prototype_name": "SC002",
+    "subtype": null,
+    "company": "未央标准",
+    "strategy": [
+      "持续作战",
+      "战略支援",
+      "舰载机"
+    ],
+    "tactic": [
+      "直射武器"
+    ]
+  }
+]
